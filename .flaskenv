@@ -1,0 +1,2 @@
+FLASK_APP=tingtushuo
+FLASK_ENV=development
